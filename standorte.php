@@ -9,6 +9,7 @@
     <div class="mit_map_marker" id="gralla"><span class="mit_map_marker_title">Gralla</span></div>
     <div class="mit_map_marker" id="brunn"><span class="mit_map_marker_title">Brunn</span></div>
 </div>
+
 <div class="mit_locations_infos">
     <!--   show all button -->
     <div class="mit_locations_show_all">
